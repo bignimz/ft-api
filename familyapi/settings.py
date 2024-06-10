@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'family~tree~apid32b8j+gr@$liv%rb46r_hxnj2'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['family-tree-api-c086a59b5f49.herokuapp.com', 'localhost', '127.0.0.1']
 
