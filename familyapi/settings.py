@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-7)t!p!-wr*jr(vi*%y91d-8)d32b8j+gr@$liv%rb46r_hxnj2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://family-tree-api-c086a59b5f49.herokuapp.com', '127.0.0.0']
 
 
 # Application definition
