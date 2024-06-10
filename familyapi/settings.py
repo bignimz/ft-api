@@ -22,12 +22,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-7)t!p!-wr*jr(vi*%y91d-8)d32b8j+gr@$liv%rb46r_hxnj2'
+SECRET_KEY = 'family~tree~apid32b8j+gr@$liv%rb46r_hxnj2'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['family-tree-api-c086a59b5f49.herokuapp.com', '127.0.0.0']
+ALLOWED_HOSTS = ['family-tree-api-c086a59b5f49.herokuapp.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
