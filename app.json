@@ -1,0 +1,6 @@
+{
+  "name": "familyapi",
+  "scripts": {
+    "postdeploy": "python manage.py migrate"
+  }
+}
